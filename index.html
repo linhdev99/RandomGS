@@ -1,31 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Genshin Impact - Random Character</title>
-    
+
     <!-- Include Bootstrap CSS (You may need to adjust the path to the CSS file) -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
     <!-- Include your custom style.css file -->
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
     <div class="container text-center">
         <!-- Center-align the title -->
         <h1 class="mt-5">Genshin Impact - Random Character</h1>
-        
-        <!-- Center-align the image -->
-        <div id="randomData" class="mx-auto mt-5">
-            <img id="randomImage" src="" alt="Random Image">
-            <p id="randomName"></p>
-        </div>
-        
-        <!-- Center-align the button -->
-        <button id="generateButton" class="btn btn-primary mt-5">Random</button>
-    </div>
 
-    <script src="controller.js"></script>
+        <div class="container mt-5">
+            <div class="row">
+                <div class="col-md-6">
+                    <!-- Character Image -->
+                    <img id="randomImage"
+                        src="https://static.wikia.nocookie.net/gensin-impact/images/3/30/Albedo_Icon.png/revision/latest/scale-to-width-down/200?cb=20210213163457"
+                        alt="Character Image" class="img-fluid">
+                </div>
+                <div class="col-md-6">
+                    <!-- Character Name -->
+                    <h1 id="randomName" class="mb-3">Albedo</h1>
+
+                    <ul class="list-group">
+                        <li class="list-group-item"><img id="icon_element" src="" alt="Geo Icon">
+                            <p id="name_element"> </p>
+                        </li>
+                        <li class="list-group-item"><img id="icon_weapon" src="" alt="Sword Icon">
+                            <p id="name_weapon"> </p>
+                        </li>
+                        <li class="list-group-item"><img id="icon_star" src="" alt="Star Icon"></li>
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+
+        <button id="generateButton" class="btn btn-primary mt-5">Random</button>
+
+        <script src="controller.js"></script>
 </body>
+
 </html>

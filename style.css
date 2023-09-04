@@ -2,22 +2,52 @@
 /* Override Bootstrap button styles */
 #generateButton {
     /* Apply Bootstrap classes for button styling */
-    font-weight: bold; /* Example custom style */
-    background-color: #007bff; /* Bootstrap primary color */
-    color: #fff; /* Text color */
-    border: none; /* Remove border */
-    padding: 10px 20px; /* Padding for the button */
-    cursor: pointer; /* Cursor style */
+    font-weight: bold;
+    /* Example custom style */
+    background-color: #007bff;
+    /* Bootstrap primary color */
+    color: #fff;
+    /* Text color */
+    border: none;
+    /* Remove border */
+    padding: 10px 20px;
+    /* Padding for the button */
+    cursor: pointer;
+    /* Cursor style */
 }
 
 /* Hover effect for the button */
 #generateButton:hover {
-    background-color: #0056b3; /* Darker color on hover */
+    background-color: #0056b3;
+    /* Darker color on hover */
 }
+
+/* CSS for sizing the image to 200x200 pixels */
+#randomImage {
+    width: 200px;
+    height: 200px;
+}
+
+#icon_element {
+    width: 32px;
+    height: 32px;
+}
+
+#icon_weapon {
+    width: 32px;
+    height: 32px;
+}
+
+#icon_star {
+    width: 100px;
+    height: 32px;
+}
+
 /* Center-align the title */
 h1.text-center {
     text-align: center;
 }
+
 /* CSS animation for fade-in effect */
 .fade-in {
     animation-name: fadeIn;
@@ -31,8 +61,8 @@ h1.text-center {
     0% {
         opacity: 0;
     }
+
     100% {
         opacity: 1;
     }
 }
-

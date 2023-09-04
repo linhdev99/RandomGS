@@ -1,282 +1,702 @@
 [
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Albedo_Icon.png",
-        "name": "Albedo"
+        "name": "Albedo",
+        "star": "5 Stars",
+        "element": "Geo",
+        "weapon": "Sword",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Element_Geo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Alhaitham_Icon.png",
-        "name": "Alhaitham"
+        "name": "Alhaitham",
+        "star": "5 Stars",
+        "element": "Dendro",
+        "weapon": "Sword",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Aloy_Icon.png",
-        "name": "Aloy"
+        "name": "Aloy",
+        "star": "5 Stars",
+        "element": "Cryo",
+        "weapon": "Bow",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/7/75/Amber_Icon.png",
-        "name": "Amber"
+        "name": "Amber",
+        "star": "4 Stars",
+        "element": "Pyro",
+        "weapon": "Bow",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Arataki_Itto_Icon.png",
-        "name": "Arataki Itto"
+        "name": "Arataki Itto",
+        "star": "5 Stars",
+        "element": "Geo",
+        "weapon": "Claymore",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Element_Geo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Baizhu_Icon.png",
-        "name": "Baizhu"
+        "name": "Baizhu",
+        "star": "5 Stars",
+        "element": "Dendro",
+        "weapon": "Catalyst",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Barbara_Icon.png",
-        "name": "Barbara"
+        "name": "Barbara",
+        "star": "4 Stars",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Beidou_Icon.png",
-        "name": "Beidou"
+        "name": "Beidou",
+        "star": "4 Stars",
+        "element": "Electro",
+        "weapon": "Claymore",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Bennett_Icon.png",
-        "name": "Bennett"
+        "name": "Bennett",
+        "star": "4 Stars",
+        "element": "Pyro",
+        "weapon": "Sword",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Candace_Icon.png",
-        "name": "Candace"
+        "name": "Candace",
+        "star": "4 Stars",
+        "element": "Hydro",
+        "weapon": "Polearm",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Chongyun_Icon.png",
-        "name": "Chongyun"
+        "name": "Chongyun",
+        "star": "4 Stars",
+        "element": "Cryo",
+        "weapon": "Claymore",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Collei_Icon.png",
-        "name": "Collei"
+        "name": "Collei",
+        "star": "4 Stars",
+        "element": "Dendro",
+        "weapon": "Bow",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/3/31/Cyno_Icon.png",
-        "name": "Cyno"
+        "name": "Cyno",
+        "star": "5 Stars",
+        "element": "Electro",
+        "weapon": "Polearm",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Dehya_Icon.png",
-        "name": "Dehya"
+        "name": "Dehya",
+        "star": "5 Stars",
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Diluc_Icon.png",
-        "name": "Diluc"
+        "name": "Diluc",
+        "star": "5 Stars",
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Diona_Icon.png",
-        "name": "Diona"
+        "name": "Diona",
+        "star": "4 Stars",
+        "element": "Cryo",
+        "weapon": "Bow",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/5/54/Dori_Icon.png",
-        "name": "Dori"
+        "name": "Dori",
+        "star": "4 Stars",
+        "element": "Electro",
+        "weapon": "Claymore",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Eula_Icon.png",
-        "name": "Eula"
+        "name": "Eula",
+        "star": "5 Stars",
+        "element": "Cryo",
+        "weapon": "Claymore",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Faruzan_Icon.png",
-        "name": "Faruzan"
+        "name": "Faruzan",
+        "star": "4 Stars",
+        "element": "Anemo",
+        "weapon": "Bow",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Fischl_Icon.png",
-        "name": "Fischl"
+        "name": "Fischl",
+        "star": "4 Stars",
+        "element": "Electro",
+        "weapon": "Bow",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Ganyu_Icon.png",
-        "name": "Ganyu"
+        "name": "Ganyu",
+        "star": "5 Stars",
+        "element": "Cryo",
+        "weapon": "Bow",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Gorou_Icon.png",
-        "name": "Gorou"
+        "name": "Gorou",
+        "star": "4 Stars",
+        "element": "Geo",
+        "weapon": "Bow",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Element_Geo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Hu_Tao_Icon.png",
-        "name": "Hu Tao"
+        "name": "Hu Tao",
+        "star": "5 Stars",
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Jean_Icon.png",
-        "name": "Jean"
+        "name": "Jean",
+        "star": "5 Stars",
+        "element": "Anemo",
+        "weapon": "Sword",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Kaedehara_Kazuha_Icon.png",
-        "name": "Kaedehara Kazuha"
+        "name": "Kaedehara Kazuha",
+        "star": "5 Stars",
+        "element": "Anemo",
+        "weapon": "Sword",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Kaeya_Icon.png",
-        "name": "Kaeya"
+        "name": "Kaeya",
+        "star": "4 Stars",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Kamisato_Ayaka_Icon.png",
-        "name": "Kamisato Ayaka"
+        "name": "Kamisato Ayaka",
+        "star": "5 Stars",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Kamisato_Ayato_Icon.png",
-        "name": "Kamisato Ayato"
+        "name": "Kamisato Ayato",
+        "star": "5 Stars",
+        "element": "Hydro",
+        "weapon": "Sword",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Kaveh_Icon.png",
-        "name": "Kaveh"
+        "name": "Kaveh",
+        "star": "4 Stars",
+        "element": "Dendro",
+        "weapon": "Claymore",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Keqing_Icon.png",
-        "name": "Keqing"
+        "name": "Keqing",
+        "star": "5 Stars",
+        "element": "Electro",
+        "weapon": "Sword",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Kirara_Icon.png",
-        "name": "Kirara"
+        "name": "Kirara",
+        "star": "4 Stars",
+        "element": "Dendro",
+        "weapon": "Sword",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Klee_Icon.png",
-        "name": "Klee"
+        "name": "Klee",
+        "star": "5 Stars",
+        "element": "Pyro",
+        "weapon": "Catalyst",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/d/df/Kujou_Sara_Icon.png",
-        "name": "Kujou Sara"
+        "name": "Kujou Sara",
+        "star": "4 Stars",
+        "element": "Electro",
+        "weapon": "Bow",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Kuki_Shinobu_Icon.png",
-        "name": "Kuki Shinobu"
+        "name": "Kuki Shinobu",
+        "star": "4 Stars",
+        "element": "Electro",
+        "weapon": "Sword",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Layla_Icon.png",
-        "name": "Layla"
+        "name": "Layla",
+        "star": "4 Stars",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Lisa_Icon.png",
-        "name": "Lisa"
+        "name": "Lisa",
+        "star": "4 Stars",
+        "element": "Electro",
+        "weapon": "Catalyst",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Lynette_Icon.png",
-        "name": "Lynette"
+        "name": "Lynette",
+        "star": "4 Stars",
+        "element": "Anemo",
+        "weapon": "Sword",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Lyney_Icon.png",
-        "name": "Lyney"
+        "name": "Lyney",
+        "star": "5 Stars",
+        "element": "Pyro",
+        "weapon": "Bow",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Mika_Icon.png",
-        "name": "Mika"
+        "name": "Mika",
+        "star": "4 Stars",
+        "element": "Cryo",
+        "weapon": "Polearm",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Mona_Icon.png",
-        "name": "Mona"
+        "name": "Mona",
+        "star": "5 Stars",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Nahida_Icon.png",
-        "name": "Nahida"
+        "name": "Nahida",
+        "star": "5 Stars",
+        "element": "Dendro",
+        "weapon": "Catalyst",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Nilou_Icon.png",
-        "name": "Nilou"
+        "name": "Nilou",
+        "star": "5 Stars",
+        "element": "Hydro",
+        "weapon": "Sword",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Ningguang_Icon.png",
-        "name": "Ningguang"
+        "name": "Ningguang",
+        "star": "4 Stars",
+        "element": "Geo",
+        "weapon": "Catalyst",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D.svg",
+        "weaponUrl": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Noelle_Icon.png",
-        "name": "Noelle"
+        "name": "Noelle",
+        "star": "4 Stars",
+        "element": "Geo",
+        "weapon": "Claymore",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Element_Geo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Qiqi_Icon.png",
-        "name": "Qiqi"
+        "name": "Qiqi",
+        "star": "5 Stars",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Raiden_Shogun_Icon.png",
-        "name": "Raiden Shogun"
+        "name": "Raiden Shogun",
+        "star": "5 Stars",
+        "element": "Electro",
+        "weapon": "Polearm",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Razor_Icon.png",
-        "name": "Razor"
+        "name": "Razor",
+        "star": "4 Stars",
+        "element": "Electro",
+        "weapon": "Claymore",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Rosaria_Icon.png",
-        "name": "Rosaria"
+        "name": "Rosaria",
+        "star": "4 Stars",
+        "element": "Cryo",
+        "weapon": "Polearm",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Sangonomiya_Kokomi_Icon.png",
-        "name": "Sangonomiya Kokomi"
+        "name": "Sangonomiya Kokomi",
+        "star": "5 Stars",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Sayu_Icon.png",
-        "name": "Sayu"
+        "name": "Sayu",
+        "star": "4 Stars",
+        "element": "Anemo",
+        "weapon": "Claymore",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Shenhe_Icon.png",
-        "name": "Shenhe"
+        "name": "Shenhe",
+        "star": "5 Stars",
+        "element": "Cryo",
+        "weapon": "Polearm",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Shikanoin_Heizou_Icon.png",
-        "name": "Shikanoin Heizou"
+        "name": "Shikanoin Heizou",
+        "star": "4 Stars",
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Sucrose_Icon.png",
-        "name": "Sucrose"
+        "name": "Sucrose",
+        "star": "4 Stars",
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Tartaglia_Icon.png",
-        "name": "Tartaglia"
+        "name": "Tartaglia",
+        "star": "5 Stars",
+        "element": "Hydro",
+        "weapon": "Bow",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Thoma_Icon.png",
-        "name": "Thoma"
+        "name": "Thoma",
+        "star": "4 Stars",
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Tighnari_Icon.png",
-        "name": "Tighnari"
+        "name": "Tighnari",
+        "star": "5 Stars",
+        "element": "Dendro",
+        "weapon": "Bow",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Traveler_Icon.png",
-        "name": "Traveler"
+        "name": "Traveler",
+        "star": "5 Stars",
+        "element": null,
+        "weapon": "Sword",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": null,
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Venti_Icon.png",
-        "name": "Venti"
+        "name": "Venti",
+        "star": "5 Stars",
+        "element": "Anemo",
+        "weapon": "Bow",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Wanderer_Icon.png",
-        "name": "Wanderer"
+        "name": "Wanderer",
+        "star": "5 Stars",
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Xiangling_Icon.png",
-        "name": "Xiangling"
+        "name": "Xiangling",
+        "star": "4 Stars",
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Xiao_Icon.png",
-        "name": "Xiao"
+        "name": "Xiao",
+        "star": "5 Stars",
+        "element": "Anemo",
+        "weapon": "Polearm",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Xingqiu_Icon.png",
-        "name": "Xingqiu"
+        "name": "Xingqiu",
+        "star": "4 Stars",
+        "element": "Hydro",
+        "weapon": "Sword",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Xinyan_Icon.png",
-        "name": "Xinyan"
+        "name": "Xinyan",
+        "star": "4 Stars",
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Yae_Miko_Icon.png",
-        "name": "Yae Miko"
+        "name": "Yae Miko",
+        "star": "5 Stars",
+        "element": "Electro",
+        "weapon": "Catalyst",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/5/54/Yanfei_Icon.png",
-        "name": "Yanfei"
+        "name": "Yanfei",
+        "star": "4 Stars",
+        "element": "Pyro",
+        "weapon": "Catalyst",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Yaoyao_Icon.png",
-        "name": "Yaoyao"
+        "name": "Yaoyao",
+        "star": "4 Stars",
+        "element": "Dendro",
+        "weapon": "Polearm",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Yelan_Icon.png",
-        "name": "Yelan"
+        "name": "Yelan",
+        "star": "5 Stars",
+        "element": "Hydro",
+        "weapon": "Bow",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Yoimiya_Icon.png",
-        "name": "Yoimiya"
+        "name": "Yoimiya",
+        "star": "5 Stars",
+        "element": "Pyro",
+        "weapon": "Bow",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Yun_Jin_Icon.png",
-        "name": "Yun Jin"
+        "name": "Yun Jin",
+        "star": "4 Stars",
+        "element": "Geo",
+        "weapon": "Polearm",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Icon_4_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Element_Geo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png"
     },
     {
         "src": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Zhongli_Icon.png",
-        "name": "Zhongli"
+        "name": "Zhongli",
+        "star": "5 Stars",
+        "element": "Geo",
+        "weapon": "Polearm",
+        "starUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_5_Stars.png",
+        "ngtoUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Element_Geo.svg",
+        "weaponUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png"
     }
 ]
