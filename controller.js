@@ -51,27 +51,12 @@ function updateRandomData() {
 
     setTimeout(() => {
         clearInterval(randomEffect);
+        data = changeRandomImage();
+        addCharacterToTable(data);
     }, timeRandom);
-
-    const randomIndex = getRandomIndex(jsonData.length);
-    const randomItem = jsonData[randomIndex];
 
     const randomImageElement = document.getElementById("randomImage");
     const randomNameElement = document.getElementById("randomName");
-    const docIconElement = document.getElementById("icon_element");
-    const docNameElement = document.getElementById("name_element");
-    const docIconWeapon = document.getElementById("icon_weapon");
-    const docNameWeapon = document.getElementById("name_weapon");
-    const docIconStar = document.getElementById("icon_star");
-
-    randomImageElement.src = randomItem.src; // Set the image source
-    randomNameElement.textContent = randomItem.name; // Set the text content
-
-    docIconElement.src = randomItem.ngtoUrl;
-    docNameElement.textContent = randomItem.element;
-    docIconWeapon.src = randomItem.weaponUrl;
-    docNameWeapon.textContent = randomItem.weapon;
-    docIconStar.src = randomItem.starUrl;
 
     animateFadeIn(randomImageElement);
     animateFadeIn(randomNameElement);
@@ -97,6 +82,25 @@ function changeRandomImage() {
     docIconWeapon.src = randomItem.weaponUrl;
     docNameWeapon.textContent = randomItem.weapon;
     docIconStar.src = randomItem.starUrl;
+
+    return randomItem
+}
+
+function addCharacterToTable(data) {
+    const tableBody = document.querySelector("#characterTable tbody");
+
+    const row = tableBody.insertRow(0);
+    const iconCell = row.insertCell(0);
+    const nameCell = row.insertCell(1);
+    const starCell = row.insertCell(2);
+    const elementCell = row.insertCell(3);
+    const weaponCell = row.insertCell(4);
+
+    iconCell.innerHTML = `<img src="${data.src}" alt="Character Icon" width="50" height="50">`;
+    nameCell.textContent = data.name;
+    starCell.textContent = data.star;
+    elementCell.textContent = data.element;
+    weaponCell.textContent = data.weapon;
 
 }
 
