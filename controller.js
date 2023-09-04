@@ -1,12 +1,14 @@
 // Initialize an empty array for jsonData
 let jsonData = [];
 let jsonBossData = [];
+let jsonWeeklyBossData = [];
 let timeRandom = 1000;
 let randomEffect;
 
 // Add event listener to the button
 var generateButton;
 var btnBoss;
+var btnWeeklyBoss;
 
 // Function to fetch JSON data from tableJson.json
 function fetchJsonData() {
@@ -23,12 +25,21 @@ function fetchJsonData() {
       jsonBossData = data;
     })
     .catch((error) => console.error("Error fetching JSON data:", error));
+	// weekly boss
+	fetch("tableWeeklyBossJson.json")
+	  .then((response) => response.json())
+	  .then((data) => {
+		jsonWeeklyBossData = data;
+	  })
+	  .catch((error) => console.error("Error fetching JSON data:", error));
 
   //listener
   generateButton = document.getElementById("generateButton");
   generateButton.addEventListener("click", updateRandomData);
   btnBoss = document.getElementById("randomBossButton");
   btnBoss.addEventListener("click", onClickButtonRandomBoss);
+  btnWeeklyBoss = document.getElementById("randomWeeklyBossButton");
+  btnWeeklyBoss.addEventListener("click", onClickButtonRandomWeeklyBoss);
 }
 
 // Call the function to fetch JSON data
@@ -170,3 +181,43 @@ function addBossToTable(data) {
   iconCell.innerHTML = `<img src="${data.src}" alt="Boss Icon" width="50" height="50">`;
   nameCell.textContent = data.name;
 }
+
+
+function onClickButtonRandomWeeklyBoss() {
+	if (jsonBossData.length === 0) {
+	  console.error("JSON data is empty. Make sure to fetch it first.");
+	  return;
+	}
+  
+	randomBossButton.disabled = true;
+	setTimeout(() => {
+	  randomBossButton.disabled = false;
+	}, timeRandom);
+  
+	let ranEff = setInterval(changeRandomWeeklyBossImage, 10);
+  
+	setTimeout(() => {
+	  clearInterval(ranEff);
+	  data = changeRandomWeeklyBossImage();
+	  addBossToTable(data);
+	}, timeRandom);
+  
+	const randomImageElement = document.getElementById("randomBossImage");
+	const randomNameElement = document.getElementById("randomBossName");
+  
+	animateFadeIn(randomImageElement);
+	animateFadeIn(randomNameElement);
+  }
+
+  function changeRandomWeeklyBossImage() {
+	const randomIndex = getRandomIndex(jsonWeeklyBossData.length);
+	const randomItem = jsonWeeklyBossData[randomIndex];
+  
+	const randomImageElement = document.getElementById("randomBossImage");
+	const randomNameElement = document.getElementById("randomBossName");
+  
+	randomImageElement.src = randomItem.src; // Set the image source
+	randomNameElement.textContent = randomItem.name; // Set the text content
+  
+	return randomItem;
+  }
