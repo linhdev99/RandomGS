@@ -1,0 +1,282 @@
+[
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Albedo_Icon.png",
+        "name": "Albedo"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Alhaitham_Icon.png",
+        "name": "Alhaitham"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Aloy_Icon.png",
+        "name": "Aloy"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/7/75/Amber_Icon.png",
+        "name": "Amber"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Arataki_Itto_Icon.png",
+        "name": "Arataki Itto"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Baizhu_Icon.png",
+        "name": "Baizhu"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Barbara_Icon.png",
+        "name": "Barbara"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Beidou_Icon.png",
+        "name": "Beidou"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Bennett_Icon.png",
+        "name": "Bennett"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Candace_Icon.png",
+        "name": "Candace"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Chongyun_Icon.png",
+        "name": "Chongyun"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Collei_Icon.png",
+        "name": "Collei"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/3/31/Cyno_Icon.png",
+        "name": "Cyno"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Dehya_Icon.png",
+        "name": "Dehya"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Diluc_Icon.png",
+        "name": "Diluc"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Diona_Icon.png",
+        "name": "Diona"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/5/54/Dori_Icon.png",
+        "name": "Dori"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Eula_Icon.png",
+        "name": "Eula"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Faruzan_Icon.png",
+        "name": "Faruzan"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Fischl_Icon.png",
+        "name": "Fischl"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Ganyu_Icon.png",
+        "name": "Ganyu"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Gorou_Icon.png",
+        "name": "Gorou"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Hu_Tao_Icon.png",
+        "name": "Hu Tao"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Jean_Icon.png",
+        "name": "Jean"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Kaedehara_Kazuha_Icon.png",
+        "name": "Kaedehara Kazuha"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Kaeya_Icon.png",
+        "name": "Kaeya"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Kamisato_Ayaka_Icon.png",
+        "name": "Kamisato Ayaka"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Kamisato_Ayato_Icon.png",
+        "name": "Kamisato Ayato"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Kaveh_Icon.png",
+        "name": "Kaveh"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Keqing_Icon.png",
+        "name": "Keqing"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Kirara_Icon.png",
+        "name": "Kirara"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Klee_Icon.png",
+        "name": "Klee"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/d/df/Kujou_Sara_Icon.png",
+        "name": "Kujou Sara"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Kuki_Shinobu_Icon.png",
+        "name": "Kuki Shinobu"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Layla_Icon.png",
+        "name": "Layla"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Lisa_Icon.png",
+        "name": "Lisa"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Lynette_Icon.png",
+        "name": "Lynette"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Lyney_Icon.png",
+        "name": "Lyney"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Mika_Icon.png",
+        "name": "Mika"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Mona_Icon.png",
+        "name": "Mona"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Nahida_Icon.png",
+        "name": "Nahida"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Nilou_Icon.png",
+        "name": "Nilou"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Ningguang_Icon.png",
+        "name": "Ningguang"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Noelle_Icon.png",
+        "name": "Noelle"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Qiqi_Icon.png",
+        "name": "Qiqi"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Raiden_Shogun_Icon.png",
+        "name": "Raiden Shogun"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Razor_Icon.png",
+        "name": "Razor"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Rosaria_Icon.png",
+        "name": "Rosaria"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Sangonomiya_Kokomi_Icon.png",
+        "name": "Sangonomiya Kokomi"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Sayu_Icon.png",
+        "name": "Sayu"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Shenhe_Icon.png",
+        "name": "Shenhe"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Shikanoin_Heizou_Icon.png",
+        "name": "Shikanoin Heizou"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Sucrose_Icon.png",
+        "name": "Sucrose"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Tartaglia_Icon.png",
+        "name": "Tartaglia"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Thoma_Icon.png",
+        "name": "Thoma"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Tighnari_Icon.png",
+        "name": "Tighnari"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Traveler_Icon.png",
+        "name": "Traveler"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Venti_Icon.png",
+        "name": "Venti"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Wanderer_Icon.png",
+        "name": "Wanderer"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Xiangling_Icon.png",
+        "name": "Xiangling"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Xiao_Icon.png",
+        "name": "Xiao"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Xingqiu_Icon.png",
+        "name": "Xingqiu"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Xinyan_Icon.png",
+        "name": "Xinyan"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Yae_Miko_Icon.png",
+        "name": "Yae Miko"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/5/54/Yanfei_Icon.png",
+        "name": "Yanfei"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Yaoyao_Icon.png",
+        "name": "Yaoyao"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Yelan_Icon.png",
+        "name": "Yelan"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Yoimiya_Icon.png",
+        "name": "Yoimiya"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Yun_Jin_Icon.png",
+        "name": "Yun Jin"
+    },
+    {
+        "src": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Zhongli_Icon.png",
+        "name": "Zhongli"
+    }
+]

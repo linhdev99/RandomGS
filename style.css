@@ -1,0 +1,38 @@
+/* Add custom styles if needed */
+/* Override Bootstrap button styles */
+#generateButton {
+    /* Apply Bootstrap classes for button styling */
+    font-weight: bold; /* Example custom style */
+    background-color: #007bff; /* Bootstrap primary color */
+    color: #fff; /* Text color */
+    border: none; /* Remove border */
+    padding: 10px 20px; /* Padding for the button */
+    cursor: pointer; /* Cursor style */
+}
+
+/* Hover effect for the button */
+#generateButton:hover {
+    background-color: #0056b3; /* Darker color on hover */
+}
+/* Center-align the title */
+h1.text-center {
+    text-align: center;
+}
+/* CSS animation for fade-in effect */
+.fade-in {
+    animation-name: fadeIn;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards;
+    opacity: 0;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
