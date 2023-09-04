@@ -39,8 +39,27 @@
 }
 
 #icon_star {
-    width: 100px;
+    width: 120px;
     height: 32px;
+}
+
+#icon_weapon,
+#name_weapon {
+    display: inline;
+    margin-right: 10px;
+    /* Adjust the margin as needed for spacing */
+}
+
+#icon_element,
+#name_element {
+    display: inline;
+    margin-right: 10px;
+    /* Adjust the margin as needed for spacing */
+}
+
+#randomName {
+    white-space: nowrap;
+    display: inline;
 }
 
 /* Center-align the title */

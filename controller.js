@@ -4,7 +4,7 @@ let timeRandom = 1000;
 let randomEffect;
 // Function to fetch JSON data from tableJson.json
 function fetchJsonData() {
-    fetch('tableJson.json')
+    fetch('tableBossJson.json')
         .then(response => response.json())
         .then(data => {
             jsonData = data;
